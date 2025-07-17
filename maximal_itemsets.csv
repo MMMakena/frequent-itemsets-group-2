@@ -1,11 +1,11 @@
 support,itemsets,closed
-0.162,frozenset({'Water'}),True
-0.1586666666666666,frozenset({'Toothpaste'}),True
-0.156,frozenset({'Chicken Breast'}),True
-0.156,frozenset({'Carrots'}),True
-0.1556666666666666,frozenset({'Rice'}),True
-0.1546666666666666,frozenset({'Potatoes'}),True
-0.1546666666666666,frozenset({'Laundry Detergent'}),True
-0.1536666666666666,frozenset({'Milk'}),True
-0.1533333333333333,frozenset({'Apples'}),True
-0.1533333333333333,frozenset({'Coffee'}),True
+0.157,frozenset({'Ice Cream'}),True
+0.156,frozenset({'Tea'}),True
+0.1553333333333333,frozenset({'Bread'}),True
+0.1543333333333333,frozenset({'Laundry Detergent'}),True
+0.1543333333333333,frozenset({'Chicken Breast'}),True
+0.154,frozenset({'Yogurt'}),True
+0.154,frozenset({'Lettuce'}),True
+0.153,frozenset({'Butter'}),True
+0.1523333333333333,frozenset({'Toothpaste'}),True
+0.1523333333333333,frozenset({'Cereal'}),True
