@@ -1,6 +1,6 @@
 # frequent-itemsets-group-2
 Exploring Frequent Itemsets: Closed vs Maximal in Supermarket Data
-# Frequent Itemsets Group Project - Group 07
+
 
 ## Group Members
 - Esther Wambui (ewambui1@usiu.ac.ke)
