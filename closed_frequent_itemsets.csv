@@ -1,0 +1,11 @@
+support,itemsets,closed
+0.1606666666666666,frozenset({'Juice'}),True
+0.16,frozenset({'Toothpaste'}),True
+0.158,frozenset({'Pasta'}),True
+0.157,frozenset({'Eggs'}),True
+0.1566666666666666,frozenset({'Cheese'}),True
+0.1546666666666666,frozenset({'Cereal'}),True
+0.1543333333333333,frozenset({'Rice'}),True
+0.1526666666666666,frozenset({'Apples'}),True
+0.152,frozenset({'Water'}),True
+0.1513333333333333,frozenset({'Chicken Breast'}),True
